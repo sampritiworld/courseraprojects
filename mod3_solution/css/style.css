@@ -1,0 +1,45 @@
+
+div {
+	padding:10px;
+	font-size:1.5em;
+	background-color: pink;
+	margin-top:10px;
+	font-family:serif;
+}
+
+#Chicken {
+	text-align: center;
+	font-size:1.75em;
+	padding-top:10px;
+}
+
+#Vegetables {
+	text-align: center;
+	font-size:1.75em;
+	padding-top:10px;
+}
+
+#Sushi {
+	text-align: center;
+	font-size:1.75em;
+	padding-top:10px;
+}
+
+#header-nav {
+	background-color: black;
+	border-radius:0;
+	border:0;
+}
+
+#Menu {
+	text-align: center;
+	font-family:serif;
+	font-size:3em;
+}
+
+
+span {
+	font-size:2em;
+	font-family: serif;
+	color:pink;
+}
