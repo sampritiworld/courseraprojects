@@ -1,7 +1,7 @@
 div {
 	padding:10px;
 	font-size:1.5em;
-	background-color: #FFC0CB;
+	background-color: pink;
 	margin-top:10px;
 	font-family:serif;
 }
@@ -25,7 +25,7 @@ div {
 }
 
 #header-nav {
-	background-color: #000000;
+	background-color: black;
 	border-radius:0;
 	border:0;
 }
@@ -40,5 +40,5 @@ div {
 span {
 	font-size:2em;
 	font-family: serif;
-	color:#FFC0CB;
+	color: pink;
 }
