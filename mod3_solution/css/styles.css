@@ -1,7 +1,7 @@
 div {
 	padding:10px;
 	font-size:1.5em;
-	background-color: FFC0CB;
+	background-color: #FFC0CB;
 	margin-top:10px;
 	font-family:serif;
 }
@@ -40,5 +40,5 @@ div {
 span {
 	font-size:2em;
 	font-family: serif;
-	color:FFC0CB;
+	color:#FFC0CB;
 }
